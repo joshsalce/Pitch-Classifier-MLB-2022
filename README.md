@@ -1,1 +1,1 @@
-# Pitch-Classifier-MLB-2022
+# Pitch Classifier ML Model MLB 2022
