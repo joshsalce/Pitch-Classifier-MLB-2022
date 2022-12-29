@@ -1,1 +1,3 @@
 # Pitch Classifier ML Model MLB 2022
+
+This is a project that builds, fits, and tests several models of classification on MLB pitch data for the 2022 regular season, which classify a single pitch's metrics as one of seven major pitches (Four-Seam Fastball, Sinker, Slider, Cutter, Curveball, Knuckle-Curve, and Splitter). Running as a standard end-to-end machine learning project, pitch data is gathered, cleaned, visualized, and processed to be fit to several different SciKit Learn classification algorithms. After testing multiple models, specific models are zeroed in on and fine-tuned to be a better-performing classifier. Finally, the fine-tuned models are tested and evaluated.
